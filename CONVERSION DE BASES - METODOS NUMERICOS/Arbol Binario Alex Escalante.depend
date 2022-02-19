@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1535520308 source:f:\eda yoseph\arbol binario alex escalante\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 f:\eda yoseph\arbol binario alex escalante\resource.h
+
+1535520087 source:f:\eda yoseph\arbol binario alex escalante\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:g:\eda yoseph\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 g:\eda yoseph\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:g:\eda yoseph\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:h:\eda yoseph\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 h:\eda yoseph\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:h:\eda yoseph\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:e:\arboles winapi\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 e:\arboles winapi\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:e:\arboles winapi\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520087 source:e:\arboles winapi\arbol binario terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535518078 e:\arboles winapi\arbol binario terminado winapi\resource.h
+
+1537848358 source:e:\arboles winapi\arbol binario terminado winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1537744963 source:h:\arboles winapi\arbol binario terminado winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 h:\arboles winapi\arbol binario terminado winapi\resource.h
+
+1535520087 source:h:\arboles winapi\arbol binario terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556940578 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	<iostream>
+
+1535518078 c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2\resource.h
+
+1535520087 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556940578 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	<iostream>
+
+1535518078 c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia\resource.h
+
+1535520087 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556948330 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia - copia - copia - copia\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	<iostream>
+
+1556946914 c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia - copia - copia - copia\resource.h
+
+1556949263 source:c:\users\gtx 1060oc\desktop\arbol binario terminado winapi2 - copia - copia - copia - copia\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556994355 source:c:\users\gtx 1060oc\desktop\conversion de bases - metodos numericos\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556946914 c:\users\gtx 1060oc\desktop\conversion de bases - metodos numericos\resource.h
+
+1557361304 source:c:\users\gtx 1060oc\desktop\conversion de bases - metodos numericos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556994355 source:e:\semestre 6º\conversion de bases - metodos numericos\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1556946914 e:\semestre 6º\conversion de bases - metodos numericos\resource.h
+
+1557361304 source:e:\semestre 6º\conversion de bases - metodos numericos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

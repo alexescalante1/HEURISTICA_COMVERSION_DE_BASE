@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1563766006 source:e:\semestre 6º\estructura de datos sad tree\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563765433 e:\semestre 6º\estructura de datos sad tree\resource.h
+
+1563765433 source:e:\semestre 6º\estructura de datos sad tree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1592414405 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\heuristica\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<cmath>
+
+1563765433 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\heuristica\resource.h
+
+1592374580 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\heuristica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
